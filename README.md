@@ -1,9 +1,8 @@
-# PyTorch
-Deep Learning with PyTorch on Python
+# Deep Learning with PyTorch on Python
 
 In this session, we will see how to use PyTorch for building deep learning models. PyTorch was released in early 2017 and has been making a pretty big impact in the deep learning community. It's developed as an open source project by the Facebook AI Research team, but is being adopted by teams everywhere in industry and academia. As per my experience, it's the best framework for learning deep learning and just a delight to work with in general. By the end of this lesson, we'll have trained our own deep learning model that can classify images of cats and dogs. 
 
-We will cover below points in mainly:
+We will cover below points:
 
 tensors - the main data structure of PyTorch. 
 
