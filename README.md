@@ -4,14 +4,14 @@ In this session, we will see how to use PyTorch for building deep learning model
 
 We will cover below points:
 
-tensors - the main data structure of PyTorch. 
+1.Tensors - the main data structure of PyTorch. 
 
-how to create tensors, how to do simple operations, and how tensors interact with NumPy.
+2.How to create tensors, how to do simple operations, and how tensors interact with NumPy.
 
-autograd - that PyTorch uses to calculate gradients for training neural networks. Autograd is amazing. It does all the work of backpropagation for us by calculating the gradients at each operation in the network which we can then use to update the network weights.
+3.Autograd - that PyTorch uses to calculate gradients for training neural networks. Autograd is amazing. It does all the work of backpropagation for us by calculating the gradients at each operation in the network which we can then use to update the network weights.
 
-Next we'll use PyTorch to build a network and run data forward through it. After that, we'll define a loss and an optimization method to train the neural network on a dataset of handwritten digits. 
+4.Next we'll use PyTorch to build a network and run data forward through it. After that, we'll define a loss and an optimization method to train the neural network on a dataset of handwritten digits. 
 
-we'll also learn how to test that our network is able to generalize through validation.
+5.We'll also learn how to test that our network is able to generalize through validation.
 
-However, we'll find that our network doesn't work too well with more complex images. We'll learn how to use pre-trained networks to improve the performance of our classifier, a technique known as transfer learning.
+6.However, we'll find that our network doesn't work too well with more complex images. We'll learn how to use pre-trained networks to improve the performance of our classifier, a technique known as transfer learning.
